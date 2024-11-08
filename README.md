@@ -1,2 +1,2 @@
 # Amit_cours
-this is my assinment 
+This is my assinments 
